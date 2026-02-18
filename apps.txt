@@ -1,0 +1,32 @@
+# Formato por app (bloques separados por linea en blanco)
+# name, developer, starts, iconname, package
+
+name=AllSport GPS PRO
+developer=Trimble Outdoors
+starts=4.0
+iconname=ic_menu_bag_apps.png
+package=com.trimble.outdoors
+
+name=The Girl With The Dragon
+developer=Stieg Larsson
+starts=4.0
+iconname=ic_menu_bag_books.png
+package=com.market.books.dragon
+
+name=The Bourne Ultimatum
+developer=Action Adventure
+starts=3.0
+iconname=ic_menu_bag_movies.png
+package=com.market.movies.bourne
+
+name=Cut the Rope
+developer=Arcade Puzzle
+starts=5.0
+iconname=ic_menu_bag_market.png
+package=com.zeptolab.cuttherope
+
+name=Top Tracks
+developer=Music Labs
+starts=4.0
+iconname=ic_menu_bag_music.png
+package=com.musiclabs.toptracks
