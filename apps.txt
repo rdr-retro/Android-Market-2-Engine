@@ -1,12 +1,12 @@
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, package, description, type
 
-name=AllSport GPS PRO
-developer=Trimble Outdoors
-starts=4.0
-iconname=ic_menu_bag_apps.png
-package=com.trimble.outdoors
-description=Seguimiento deportivo con rutas, mapas y metricas al aire libre.
+name=Whasap2
+developer=Raúl Díaz Gutiérrez
+starts=5.0
+iconname=whasap2.png
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Whasap2.apk
+description=Una app dedicada a usar discord en android 4.X
 type=recommended
 
 name=The Girl With The Dragon
