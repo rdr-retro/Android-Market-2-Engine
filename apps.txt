@@ -1,11 +1,12 @@
 # 4 aplicaciones recomendadas (boton 1..4)
-# Campos: name, developer, starts, iconname, package, type
+# Campos: name, developer, stars/starts, iconname, package, description, type
 
 name=AllSport GPS PRO
 developer=Trimble Outdoors
 starts=4.0
 iconname=ic_menu_bag_apps.png
 package=com.trimble.outdoors
+description=Seguimiento deportivo con rutas, mapas y metricas al aire libre.
 type=recommended
 
 name=The Girl With The Dragon
@@ -13,6 +14,7 @@ developer=Stieg Larsson
 starts=4.0
 iconname=ic_menu_bag_books.png
 package=com.market.books.dragon
+description=Novela negra completa en formato digital con lectura offline.
 type=recommended
 
 name=The Bourne Ultimatum
@@ -20,6 +22,7 @@ developer=Action Adventure
 starts=3.0
 iconname=ic_menu_bag_movies.png
 package=com.market.movies.bourne
+description=Pelicula de accion en catalogo clasico con reproduccion instantanea.
 type=recommended
 
 name=Cut the Rope
@@ -27,6 +30,7 @@ developer=Arcade Puzzle
 starts=5.0
 iconname=ic_menu_bag_market.png
 package=com.zeptolab.cuttherope
+description=Puzzle casual para todos los publicos con niveles cortos y adictivos.
 type=recommended
 
 # Lista normal del feed (debajo)
@@ -35,6 +39,7 @@ developer=Music Labs
 starts=4.0
 iconname=ic_menu_bag_music.png
 package=com.musiclabs.toptracks
+description=Ranking diario de canciones y playlists para descubrir musica nueva.
 type=normal
 
 name=Weather Pulse
@@ -42,6 +47,7 @@ developer=Sky Systems
 starts=4.0
 iconname=ic_menu_bag_apps.png
 package=com.skysystems.weatherpulse
+description=Pronostico local con widgets simples y alertas por ubicacion.
 type=normal
 
 name=Retro Racer
@@ -49,6 +55,7 @@ developer=Pixel Garage
 starts=3.0
 iconname=ic_menu_bag_market.png
 package=com.pixelgarage.retroracer
+description=Carreras arcade de estilo retro con control tactil rapido.
 type=normal
 
 name=Book Shelf
@@ -56,4 +63,5 @@ developer=Read Labs
 starts=5.0
 iconname=ic_menu_bag_books.png
 package=com.readlabs.bookshelf
+description=Biblioteca personal para ordenar, marcar y continuar lecturas.
 type=normal
