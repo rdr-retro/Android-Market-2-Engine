@@ -4,7 +4,10 @@
 name=Whasap2
 developer=Raúl Díaz Gutiérrez
 starts=5.0
-iconname=whasap.png
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/whasap.png
+screenshot1=whasapc1.png
+screenshot2=whasapc2.png
+screenshot3=whasapc3.png
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Whasap2.apk
 description=Una app dedicada a usar discord en android 4.X
 type=recommended
