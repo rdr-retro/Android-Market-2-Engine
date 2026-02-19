@@ -53,14 +53,17 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
 type=recommended
 
-name=Cut the Rope
-developer=Arcade Puzzle
-starts=5.0
-iconname=ic_menu_bag_market.png
-category=games
-minandroid=4.0
-package=com.zeptolab.cuttherope
-description=Puzzle casual para todos los publicos con niveles cortos y adictivos.
+name=Es File Explorer
+developer=ES Global
+starts=4.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/esfileexplorer.png
+screenshot1=esfileexplorerc1.png
+screenshot2=esfileexplorerc2.png
+screenshot3=esfileexplorerc3.png
+category=apps
+minandroid=4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/esfileexplorer.apk
+description=Una app que te permite Gestionar tus archivos en tu dispositivo android.
 type=recommended
 
 # Lista normal del feed (debajo)
