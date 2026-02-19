@@ -37,7 +37,7 @@ screenshot3=discrotoc3.png
 category=apps
 minandroid=2.3.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Discroto2.apk
-description=Novela negra completa en formato digital con lectura offline.
+description=Discord en Android 2.3.0 Funciona perfectamente Envia mensajes y fotos desde tu smarphone Antiguo.
 type=recommended
 
 name=The Bourne Ultimatum
