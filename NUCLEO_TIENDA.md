@@ -57,6 +57,129 @@ Android Market 2 es una tienda Android legacy-oriented (minSdk 16 / Android 4.1)
 
 La primera respuesta no vacia se usa como fuente canonical de sesion.
 
+## 4.1.1 Que `apps.txt` se usa realmente
+
+- Runtime: la app usa `apps.txt` remoto (GitHub + mirrors).
+- Si todo remoto falla: el parser recibe `null` y devuelve listas vacias (no hay fallback automatico a assets locales para el catalogo).
+- El archivo `app/apps.txt` del proyecto sirve como fuente editable de contenido, pero no se carga directamente en tiempo de ejecucion con el codigo actual.
+
+## 4.1.2 Estructura fisica de `apps.txt`
+
+El archivo se interpreta por bloques separados por una o mas lineas en blanco.
+
+Cada bloque puede ser:
+
+1. Formato clave-valor multilinea.
+2. Formato CSV de una linea.
+
+Reglas de tokenizacion:
+
+- Se normaliza salto de linea `\r\n -> \n`.
+- Se ignoran lineas vacias.
+- Se ignoran lineas comentario que empiezan por `#`.
+- En multilinea, el parser acepta separador `=` o `:`.
+- Si una linea no tiene separador valido, se ignora.
+
+## 4.1.3 Especificacion semantica de campos
+
+Campo principal de identidad:
+
+- `name` (obligatorio): si falta, el bloque se descarta.
+
+Campos con alias soportados:
+
+- `developer`: alias `dev`; default `"Unknown"`.
+- `stars`: alias `starts`; default `"0"`.
+- `iconname`: alias `icon`; default `""`.
+- `screenshot1`: alias `screen1`, `capture1`; default `""`.
+- `screenshot2`: alias `screen2`, `capture2`; default `""`.
+- `screenshot3`: alias `screen3`, `capture3`; default `""`.
+- `category`: alias `categoria`, `cat`; mapeo a enum `APPS/GAMES/BOOKS/MOVIES`.
+- `minandroid`: alias `androidmin`, `androidversion`, `minsdk`, `versionandroid`; default `""`.
+- `package`: alias `packagename`; default `""`.
+- `description`: alias `desc`, `descripcion`, `descripccion`; default `""`.
+- `type`: alias `section`, `group`, `recommended`; opcional.
+
+Valores de `type` aceptados:
+
+- recomendado: `recommended`, `recomendada`, `recomendado`, `featured`, `true`, `1`, `yes`, `si`
+- normal: `normal`, `app`, `apps`, `false`, `0`, `no`
+
+Valores de `category` aceptados:
+
+- apps: `app`, `apps`, `aplicaciones`
+- games: `game`, `games`, `juego`, `juegos`
+- books: `book`, `books`, `libro`, `libros`
+- movies: `movie`, `movies`, `pelicula`, `peliculas`
+
+## 4.1.4 Significado operacional de cada campo
+
+- `name`: titulo visible en feed y detalle.
+- `developer`: subtitulo autor/desarrollador.
+- `stars/starts`: puntuacion textual; luego se convierte a glifos `★/☆`.
+- `iconname`: icono principal:
+- si es URL, se descarga remoto.
+- si es nombre de drawable local (ej. `ic_menu_bag_music.png`), se usa recurso local como fallback principal.
+- `screenshot1..3`: capturas de detalle; si faltan, `DetailsActivity` usa `iconUrl` como fallback visual.
+- `category`: color/acento de fila y clasificacion de feed.
+- `minandroid`: compatibilidad; se transforma a API level y condiciona boton instalar.
+- `package`:
+- si es package id (`com.xxx...`): abre Play Store.
+- si es URL `.apk`: descarga e instala APK.
+- `description`: texto largo de detalle.
+- `type`: define si la app va a bloque recomendado o feed normal.
+
+## 4.1.5 Reglas de agrupacion recomendado/normal
+
+- Si no hay `type` en ningun bloque:
+- primeras 4 apps -> recomendadas
+- resto -> normales
+- Si hay `type` explicito:
+- recomendadas = `type == recommended`
+- normales = resto
+- Si recomendadas < 4, se promocionan normales hasta completar 4.
+
+Nota de UI:
+
+- El widget visual de destacadas en feed solo pinta 4 elementos.
+- Si en `apps.txt` hay 5+ recomendadas, las extra quedan fuera de ese bloque visual.
+
+## 4.1.6 Modo CSV de una linea
+
+Formato base:
+
+`name,developer,stars,iconname,package[,extra1,extra2,...]`
+
+Comportamiento de extras:
+
+- El primer extra que parezca `type` se usa como `type`.
+- El primer extra que no sea `type` se usa como `description`.
+
+Esto permite mezclar fuentes legacy que venian en CSV simple.
+
+## 4.1.7 Mini ejemplo de bloque valido (multilinea)
+
+```txt
+name=YouTube2
+developer=Raul Diaz Gutierrez
+starts=3.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2.png
+screenshot1=youtubec1.png
+screenshot2=youtubec2.png
+screenshot3=youtubec3.png
+category=apps
+minandroid=4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2.apk
+description=Una app que te permite ver videos de YouTube sin anuncios para Android 4.1.
+type=recommended
+```
+
+## 4.1.8 Mini ejemplo de bloque valido (CSV)
+
+```txt
+MiApp,MiStudio,4.0,mi_icon.png,com.mi.app,recommended,Descripcion corta
+```
+
 ## 4.2 Parseo tolerante (`parseAppsTxt`)
 El parser soporta dos formatos:
 
