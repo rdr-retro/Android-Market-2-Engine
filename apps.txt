@@ -16,7 +16,7 @@ type=recommended
 
 name=YouTube2
 developer=Raúl Díaz Gutiérrez
-starts=5.0
+starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2.png
 screenshot1=youtubec1.png
 screenshot2=youtubec2.png
@@ -27,13 +27,16 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Una app que te permite ver videos de YouTube sin anuncios para Android 4.1.
 type=recommended
 
-name=The Girl With The Dragon
-developer=Stieg Larsson
+name=Discroto2
+developer=Sleap0x7b Edit by Raúl Díaz Gutiérrez
 starts=4.0
-iconname=ic_menu_bag_books.png
-category=books
-minandroid=5.0
-package=com.market.books.dragon
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/discroto2.png
+screenshot1=discrotoc1.png
+screenshot2=discrotoc2.png
+screenshot3=discrotoc3.png
+category=apps
+minandroid=2.3.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Discroto2.apk
 description=Novela negra completa en formato digital con lectura offline.
 type=recommended
 
