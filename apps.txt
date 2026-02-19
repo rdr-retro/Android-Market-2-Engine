@@ -14,6 +14,19 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Una app dedicada a usar discord en android 4.X
 type=recommended
 
+name=YouTube2
+developer=Raúl Díaz Gutiérrez
+starts=5.0
+iconname=youtube.png
+screenshot1=youtubec1.png
+screenshot2=youtubec2.png
+screenshot3=youtubec3.png
+category=apps
+minandroid=4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2.apk
+description=Una app que te permite ver videos de YouTube sin anuncios para Android 4.1.
+type=recommended
+
 name=The Girl With The Dragon
 developer=Stieg Larsson
 starts=4.0
