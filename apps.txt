@@ -40,14 +40,17 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Discord en Android 2.3.0 Funciona perfectamente Envia mensajes y fotos desde tu smarphone Antiguo.
 type=recommended
 
-name=The Bourne Ultimatum
-developer=Action Adventure
+name=YouTube2tv
+developer=Raúl Díaz Gutiérrez
 starts=3.0
-iconname=ic_menu_bag_movies.png
-category=movies
-minandroid=4.0
-package=com.market.movies.bourne
-description=Pelicula de accion en catalogo clasico con reproduccion instantanea.
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2tv.png
+screenshot1=youtube2tvc1.png
+screenshot2=youtube2tvc2.png
+screenshot3=youtube2tvc3.png
+category=apps
+minandroid=4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2TV.apk
+description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
 type=recommended
 
 name=Cut the Rope
