@@ -67,15 +67,18 @@ description=Una app que te permite Gestionar tus archivos en tu dispositivo andr
 type=recommended
 
 # Lista normal del feed (debajo)
-name=Top Tracks
-developer=Music Labs
-starts=4.0
-iconname=ic_menu_bag_music.png
-category=apps
-minandroid=2.3.6
-package=com.musiclabs.toptracks
-description=Ranking diario de canciones y playlists para descubrir musica nueva.
-type=normal
+name=Ruben Portable The game
+developer=ES Global
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/rubenportablethegame.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rubenportablethegame.apk
+description=Juega a Ruben portable y haz que ruben no caiga en manos de la de fol.
+type=recommended
 
 name=Weather Pulse
 developer=Sky Systems
