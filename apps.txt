@@ -68,7 +68,7 @@ type=recommended
 
 # Lista normal del feed (debajo)
 name=Ruben Portable The game
-developer=ES Global
+developer=Joiko
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/rubenportablethegame.png
 screenshot1=rubenportablethegamec1.png
@@ -80,15 +80,18 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Juega a Ruben portable y haz que ruben no caiga en manos de la de fol.
 type=recommended
 
-name=Weather Pulse
-developer=Sky Systems
-starts=4.0
-iconname=ic_menu_bag_apps.png
-category=apps
-minandroid=4.0
-package=com.skysystems.weatherpulse
-description=Pronostico local con widgets simples y alertas por ubicacion.
-type=normal
+name=Fortunecam
+developer=Raúl Díaz Gutiérrez
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fortunecam.png
+screenshot1=fortunecamc1.png
+screenshot2=fortunecamc2.png
+screenshot3=fortunecamc3.png
+category=games
+minandroid=4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/fortunecam.apk
+description=Saca fotografias de multiples dispositivos al mismo tiempo.
+type=recommended
 
 name=Retro Racer
 developer=Pixel Garage
