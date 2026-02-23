@@ -15,7 +15,7 @@ screenshot2=whasapc2.png
 screenshot3=whasapc3.png
 category=apps
 minandroid=4.1
-appversion=2.0
+appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Whasap2.apk
 description=Una app dedicada a usar discord en android 4.X
 verify=on
@@ -78,7 +78,7 @@ screenshot2=esfileexplorerc2.png
 screenshot3=esfileexplorerc3.png
 category=apps
 minandroid=4.1
-appversion=1.0
+appversion=2.5.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/drastic.apk
 description=Una app que te permite Gestionar tus archivos en tu dispositivo android.
 verify=off
@@ -112,6 +112,182 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rubenportablethegame.apk
 description=Juega a Ruben portable y haz que ruben no caiga en manos de la de fol.
+verify=on
+type=recommended
+
+# Bloons TD 4 v0.0.1.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD0.0.1.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/vowrubvmislyb2e/Bloons_TD_4_v0.0.1.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.2.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.2.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/wwb9eh75tmflkft/Bloons_TD_4_v1.2.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.4.2.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.4.2.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/yn75ry5qq0g0ifk/Bloons_TD_4_v1.4.2.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.4.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.4.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/jhzp40tyyz6f4fw/Bloons_TD_4_v1.4.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.6.0.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.6.0.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/mw5qb1ghlj3aobo/Bloons_TD_4_v1.6.0.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.7.0.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.7.0.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/gxp2yqchuh88bgi/Bloons_TD_4_v1.7.0.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.8.0.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.8.0.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/tdd3rqiopo587k7/Bloons_TD_4_v1.8.0.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.8.1.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/1.8.1.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/jn7b3dgzi637f9l/Bloons_TD_4_v1.8.1.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v1.9.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD1.8.1.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/yc86qm8b8c75aed/Bloons_TD_4_v1.9.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v2.0.0.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD2.0.0.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/irzi13isir1ml6f/Bloons_TD_4_v2.0.0.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
+verify=on
+type=recommended
+
+# Bloons TD 4 v2.1.0.apk
+name=Bloons TD 4
+developer=Joiko
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/BTD2.1.0.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/t2bd6h25repw7zu/Bloons_TD_4_v2.1.0.apk/file
+description=Pon a prueba tu estrategia y reflejos en esta experiencia arcade llena de acción y humor. Controla a Rubén mientras supera obstáculos, esquiva peligros y evita caer en manos de la temida profe de FOL. Con mecánicas simples pero adictivas, niveles dinámicos y desafío progresivo, este juego combina diversión clásica con retos cada vez más intensos que pondrán a prueba tu habilidad.
 verify=on
 type=recommended
 
