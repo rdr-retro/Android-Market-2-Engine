@@ -366,7 +366,7 @@ type=recommended
 
 
 name=Five Nights at Freddy's 1
-developer=Unknown
+developer=Scott Cawton
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fnaf1.png
 screenshot1=default_c1.png
@@ -380,7 +380,7 @@ description=Sobrevive cinco noches como guardia nocturno en una pizzería aparen
 type=recommended
 
 name=Five Nights at Freddy's 2
-developer=Unknown
+developer=Scott Cawton
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fnaf2.png
 screenshot1=default_c1.png
@@ -389,12 +389,12 @@ screenshot3=default_c3.png
 category=games
 minandroid=2.3
 appversion=1.2.1
-package=https://www.mediafire.com/file/85rfbsfcf5wwm51/fnaf2.apk/file
+package=https://www.mediafire.com/file/33vfjjldk8a61m3/fnaf2.apk/file
 description=Precuela del éxito original que aumenta la dificultad y el terror. Enfréntate a nuevos animatrónicos más agresivos, usa tu linterna, máscara de Freddy y cámaras para sobrevivir. Más enemigos, más tensión y mecánicas nuevas hacen que cada noche sea un desafío extremo de reflejos y estrategia.
 type=recommended
 
 name=Five Nights at Freddy's 3
-developer=Unknown
+developer=Scott Cawton
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fnaf3.png
 screenshot1=default_c1.png
@@ -408,7 +408,7 @@ description=Treinta años después del cierre de Freddy Fazbear’s Pizza, una a
 type=recommended
 
 name=Five Nights at Freddy's 4
-developer=Unknown
+developer=Scott Cawton
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fnaf4.png
 screenshot1=default_c1.png
@@ -422,7 +422,7 @@ description=La entrega más terrorífica de la saga. Ya no estás en una oficina
 type=recommended
 
 name=Five Nights at Freddy's sister location
-developer=Unknown
+developer=Scott Cawton
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/andregalpoolbilliard.png
 screenshot1=default_c1.png
