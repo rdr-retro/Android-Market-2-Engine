@@ -239,20 +239,6 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Retrogram para Android 2.2.
 type=recommended
 
-name=Dc
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/dc.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=apps
-minandroid=4.1
-appversion=9.8.8-hotfix
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/dc.apk
-description=Aplicación Dc para Android 4.1.
-type=recommended
-
 
 name=Retrogramdifferentbundleid
 developer=Unknown
@@ -359,66 +345,6 @@ description=Aplicación Canhorozstackpiecetower para Android 2.3.
 type=recommended
 
 
-name=Halfbrickjetpackjoyride
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/halfbrickjetpackjoyride.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.2
-appversion=1.5.1
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/halfbrickjetpackjoyride.apk
-description=Aplicación Halfbrickjetpackjoyride para Android 2.2.
-type=recommended
-
-
-name=Kiloosubwaysurf
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/kiloosubwaysurf.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=1.4.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kiloosubwaysurf.apk
-description=Aplicación Kiloosubwaysurf para Android 2.3.3.
-type=recommended
-
-
-name=Talking tom
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/talkingtomcat.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.2
-appversion=2.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/talkingtomcat.apk
-description=Aplicación Talkingtomcat para Android 2.2.
-type=recommended
-
-
-name=Zamedevgloomydungeonsfullnfree
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zamedevgloomydungeonsfullnfree.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.2
-appversion=2019.10.04.0000
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/zamedevgloomydungeonsfullnfree.apk
-description=Aplicación Zamedevgloomydungeonsfullnfree para Android 2.2.
-type=recommended
-
-
 name=Litobytesoftworksmadoballd
 developer=Unknown
 starts=5.0
@@ -464,49 +390,7 @@ description=Aplicación Androidemu para Android 2.0.
 type=recommended
 
 
-name=Fdgentertainmentbananakong
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fdgentertainmentbananakong.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.2
-appversion=1.6.10
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/fdgentertainmentbananakong.apk
-description=Aplicación Fdgentertainmentbananakong para Android 2.2.
-type=recommended
 
-
-name=Outfittalkingtom
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/outfittalkingtom.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.2
-appversion=2.2
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/outfittalkingtom.apk
-description=Aplicación Outfittalkingtom para Android 2.2.
-type=recommended
-
-
-name=Zeptolabctrfp
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zeptolabctrfp.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=1.5
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/zeptolabctrfp.apk
-description=Aplicación Zeptolabctrfp para Android 2.3.
-type=recommended
 
 
 name=Cardrivingracingd
@@ -553,52 +437,6 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Mobigamezombietsunami para Android 2.3.
 type=recommended
 
-
-name=Gameloftgandgloftasphaltasphalt
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gameloftgandgloftasphaltasphalt.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.0
-appversion=1.1.3
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gameloftgandgloftasphaltasphalt.apk
-description=Aplicación Gameloftgandgloftasphaltasphalt para Android 2.0.
-type=recommended
-
-
-name=Robtopxgeometryjump
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/robtopxgeometryjump.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=2.111
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/robtopxgeometryjump.apk
-description=Aplicación Robtopxgeometryjump para Android 2.3.3.
-type=recommended
-
-
-name=Kingfarmheroessaga
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/kingfarmheroessaga.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=4.0.18
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kingfarmheroessaga.apk
-description=Aplicación Kingfarmheroessaga para Android 2.3.
-type=recommended
-
-
 name=Tpcstldtwozerogame
 developer=Unknown
 starts=5.0
@@ -644,21 +482,6 @@ description=Aplicación Cmplaytiles para Android 2.3.3.
 type=recommended
 
 
-name=Cocapcomgoogleplaybio
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/cocapcomgoogleplaybio.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.2
-appversion=1.01.01
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cocapcomgoogleplaybio.apk
-description=Aplicación Cocapcomgoogleplaybio para Android 2.2.
-type=recommended
-
-
 name=Maigemespapasdonuterialink
 developer=Unknown
 starts=5.0
@@ -688,20 +511,6 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Dotgearsflappybird para Android 2.2.
 type=recommended
 
-
-name=Zeptolabctr
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zeptolabctr.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=2.5.1
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/zeptolabctr.apk
-description=Aplicación Zeptolabctr para Android 2.3.
-type=recommended
 
 
 name=Polarbitrthunderlite
@@ -794,33 +603,7 @@ description=Aplicación Halfbrickfruitninjafree para Android 2.3.3.
 type=recommended
 
 
-name=Segasonicdash
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/segasonicdash.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=13.11.25.12.07.21
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/segasonicdash.apk
-description=Aplicación Segasonicdash para Android 2.3.3.
-type=recommended
-
-
-name=Popcappvz
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/popcappvz.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=8.1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/popcappvz.apk
-description=Aplicación Popcappvz para Android 2.3.3.
+ión Segasonicdash para Android 2.3.3.
 type=recommended
 
 
@@ -853,20 +636,6 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Freegameblockpuzzlemania para Android 2.3.
 type=recommended
 
-
-name=Geometrydash
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/geometrydash.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=2.001
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/geometrydash.apk
-description=Aplicación Geometrydash para Android 2.3.3.
-type=recommended
 
 
 name=Dogbytegamesblockyrush
@@ -914,20 +683,6 @@ description=Aplicación Kickktb para Android 2.3.
 type=recommended
 
 
-name=Miniclipeightballpool
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/miniclipeightballpool.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=3.4.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/miniclipeightballpool.apk
-description=Aplicación Miniclipeightballpool para Android 2.3.3.
-type=recommended
-
 
 name=Limadoodlejump
 developer=Unknown
@@ -959,7 +714,7 @@ description=Aplicación Jetstartgameschess para Android 2.3.
 type=recommended
 
 
-name=Outfittalkingben
+name=Talking Ben
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/outfittalkingben.png
@@ -971,21 +726,6 @@ minandroid=2.1
 appversion=1.2.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/outfittalkingben.apk
 description=Aplicación Outfittalkingben para Android 2.1.
-type=recommended
-
-
-name=Fingersofthillclimb
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fingersofthillclimb.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=1.23.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/fingersofthillclimb.apk
-description=Aplicación Fingersofthillclimb para Android 2.3.
 type=recommended
 
 
@@ -1034,7 +774,7 @@ description=Aplicación Topfreegamesbikeracefreeworld para Android 2.2.
 type=recommended
 
 
-name=Mojangminecraftpe
+name=Minecraft Pocket Edition 2
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/mojangminecraftpe.png
@@ -1049,7 +789,7 @@ description=Aplicación Mojangminecraftpe para Android 2.3.
 type=recommended
 
 
-name=Minecraftpocketedition
+name=Minecraft Pocket Edition 
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
@@ -1076,21 +816,6 @@ minandroid=1.6
 appversion=1.2.11
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/natenaiglowhockey.apk
 description=Aplicación Natenaiglowhockey para Android 1.6.
-type=recommended
-
-
-name=Blackpianopianotiles
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/blackpianopianotiles.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=30.08.17
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/blackpianopianotiles.apk
-description=Aplicación Blackpianopianotiles para Android 2.3.
 type=recommended
 
 
