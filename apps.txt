@@ -375,7 +375,7 @@ screenshot3=default_c3.png
 category=games
 minandroid=2.3
 appversion=1.2.1
-package=https://www.mediafire.com/file/zjus5t2yynwbh3k/fnaf1.apk/file
+package=https://www.mediafire.com/file/a2vfr42l3wuk6do/fnaf1.apk/file
 description=Sobrevive cinco noches como guardia nocturno en una pizzería aparentemente inocente donde los animatrónicos cobran vida al caer la noche. Controla cámaras de seguridad, administra energía limitada y evita que las criaturas se acerquen. Un clásico del terror indie que combina estrategia, tensión psicológica y jumpscares inolvidables.
 type=recommended
 
