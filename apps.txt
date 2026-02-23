@@ -408,35 +408,6 @@ description=Aplicación Cardrivingracingd para Android 2.3.3.
 type=recommended
 
 
-name=Zombietsunami
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zombietsunami.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=1.7.4
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/zombietsunami.apk
-description=Aplicación Zombietsunami para Android 2.3.
-type=recommended
-
-
-name=Mobigamezombietsunami
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/mobigamezombietsunami.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=3.2.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/mobigamezombietsunami.apk
-description=Aplicación Mobigamezombietsunami para Android 2.3.
-type=recommended
-
 name=Tpcstldtwozerogame
 developer=Unknown
 starts=5.0
@@ -587,20 +558,6 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Xinshengbubbleshooter para Android 2.3.
 type=recommended
 
-
-name=Halfbrickfruitninjafree
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/halfbrickfruitninjafree.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3.3
-appversion=1.9.5
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/halfbrickfruitninjafree.apk
-description=Aplicación Halfbrickfruitninjafree para Android 2.3.3.
-type=recommended
 
 
 ión Segasonicdash para Android 2.3.3.
