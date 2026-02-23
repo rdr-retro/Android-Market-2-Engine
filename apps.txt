@@ -66,6 +66,24 @@ description=Una app que te permite ver videos de YouTube en tu televisor sin anu
 verify=on
 type=recommended
 
+# Lista normal del feed (debajo)
+
+
+name=Drastic
+developer=ES Global
+starts=4.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/drastic.png
+screenshot1=esfileexplorerc1.png
+screenshot2=esfileexplorerc2.png
+screenshot3=esfileexplorerc3.png
+category=apps
+minandroid=4.1
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/drastic.apk
+description=Una app que te permite Gestionar tus archivos en tu dispositivo android.
+verify=off
+type=recommended
+
 name=Es File Explorer
 developer=ES Global
 starts=4.0
@@ -81,7 +99,7 @@ description=Una app que te permite Gestionar tus archivos en tu dispositivo andr
 verify=off
 type=recommended
 
-# Lista normal del feed (debajo)
+
 name=Ruben Portable The game
 developer=Joiko
 starts=5.0
