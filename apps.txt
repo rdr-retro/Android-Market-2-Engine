@@ -66,6 +66,32 @@ description=Una app que te permite ver videos de YouTube en tu televisor sin anu
 verify=on
 type=recommended
 
+# Apps Grandes con obb
+# Apps Grandes con obb
+# Apps Grandes con obb
+# Apps Grandes con obb
+
+#Grand-Theft-Auto-Vice-City-V1.07.apk
+name=YouTube2tv
+developer=Raúl Díaz Gutiérrez
+starts=3.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2tv.png
+screenshot1=youtube2tvc1.png
+screenshot2=youtube2tvc2.png
+screenshot3=youtube2tvc3.png
+category=apps
+minandroid=2.3
+appversion=1.07
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Grand-Theft-Auto-Vice-City-V1.07.apk
+obb=
+description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
+verify=on
+type=recommended
+
+
+
+
+
 # Lista normal del feed (debajo)
 
 
@@ -653,7 +679,7 @@ description=Aplicación Andregalpoolbilliard para Android 2.3.
 verify=off
 type=recommended
 
-name=Androidemu
+name=N64oid
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/androidemu.png
@@ -683,7 +709,7 @@ description=Aplicación Androidemu para Android 2.0.
 verify=off
 type=recommended
 
-name=Cardrivingracingd
+name=Car Driving Racing 3D
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/cardrivingracingd.png
@@ -758,7 +784,7 @@ description=Aplicación Maigemespapasdonuterialink para Android 2.3.
 verify=off
 type=recommended
 
-name=Dotgearsflappybird
+name=flappy Bird
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/dotgearsflappybird.png
@@ -803,7 +829,7 @@ description=Aplicación Sand para Android 2.3.3.
 verify=off
 type=recommended
 
-name=Com.polarbit.rthunderlite_v116
+name=Racing Thunder
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/com.polarbit.rthunderlite_v116.png
@@ -818,7 +844,7 @@ description=Aplicación Com.polarbit.rthunderlite_v116 para Android 2.3.
 verify=off
 type=recommended
 
-name=Xinshengbubbleshooter
+name=Bubble Shooter
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/xinshengbubbleshooter.png
@@ -851,7 +877,7 @@ description=Aplicación Pouapp para Android 2.3.
 verify=off
 type=recommended
 
-name=Freegameblockpuzzlemania
+name=Block Puzzle mania 2016
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/freegameblockpuzzlemania.png
@@ -956,7 +982,7 @@ description=Aplicación Outfittalkingben para Android 2.1.
 verify=off
 type=recommended
 
-name=Ansanghadrdriving
+name=Dr. Driving
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/ansanghadrdriving.png
