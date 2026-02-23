@@ -72,7 +72,7 @@ type=recommended
 # Apps Grandes con obb
 
 #Grand-Theft-Auto-Vice-City-V1.07.apk
-name=YouTube2tv
+name=Grand Theft Auto Vice City
 developer=Raúl Díaz Gutiérrez
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2tv.png
