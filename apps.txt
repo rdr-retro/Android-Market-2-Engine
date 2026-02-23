@@ -181,20 +181,6 @@ description=Aplicación Youtubeflashback para Android 2.2.
 type=recommended
 
 
-name=Dcnogms
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/dcnogms.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=apps
-minandroid=4.1
-appversion=9.8.8-hotfix
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/dcnogms.apk
-description=Aplicación Dcnogms para Android 4.1.
-type=recommended
-
 
 name=Youtube
 developer=Unknown
