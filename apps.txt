@@ -249,7 +249,7 @@ screenshot1=default_c1.png
 screenshot2=default_c2.png
 screenshot3=default_c3.png
 category=apps
-minandroid=5.1
+minandroid=2.3
 appversion=1.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cosmicflow.apk
 description=Aplicación Cosmicflow para Android 5.1.
@@ -375,7 +375,19 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Androidemu para Android 2.0.
 type=recommended
 
-
+name=zamedevgloomydungeonsfullnfree
+developer=Unknown
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zamedevgloomydungeonsfullnfree.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.0
+appversion=2.7
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/zamedevgloomydungeonsfullnfree.apk
+description=Aplicación Androidemu para Android 2.0.
+type=recommended
 
 
 
