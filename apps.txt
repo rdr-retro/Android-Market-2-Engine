@@ -4,7 +4,7 @@ market2.3version=2.0
 package=market2.3.apk
 
 # 4 aplicaciones recomendadas (boton 1..4)
-# Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type
+# Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
 
 name=Whasap2
 developer=Raúl Díaz Gutiérrez
@@ -18,6 +18,7 @@ minandroid=4.1
 appversion=2.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Whasap2.apk
 description=Una app dedicada a usar discord en android 4.X
+verify=on
 type=recommended
 
 name=YouTube2
@@ -32,6 +33,7 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2.apk
 description=Una app que te permite ver videos de YouTube sin anuncios para Android 4.1.
+verify=on
 type=recommended
 
 name=Discroto2
@@ -46,6 +48,7 @@ minandroid=2.3.0
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Discroto2.apk
 description=Discord en Android 2.3.0 Funciona perfectamente Envia mensajes y fotos desde tu smarphone Antiguo.
+verify=on
 type=recommended
 
 name=YouTube2tv
@@ -60,6 +63,7 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2TV.apk
 description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
+verify=on
 type=recommended
 
 name=Es File Explorer
@@ -74,6 +78,7 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/esfileexplorer.apk
 description=Una app que te permite Gestionar tus archivos en tu dispositivo android.
+verify=on
 type=recommended
 
 # Lista normal del feed (debajo)
@@ -89,6 +94,7 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rubenportablethegame.apk
 description=Juega a Ruben portable y haz que ruben no caiga en manos de la de fol.
+verify=on
 type=recommended
 
 name=Fortunecam
@@ -103,6 +109,7 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/fortunecam.apk
 description=Saca fotografias de multiples dispositivos al mismo tiempo.
+verify=on
 type=recommended
 
 name=Sky Map
@@ -117,6 +124,7 @@ minandroid=2.3
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/skymap.apk
 description=Visualiza el cielo con tu telefono android. Constelaciones, planetas y mas
+verify=on
 type=recommended
 
 name=Opera Mini
@@ -131,6 +139,7 @@ minandroid=2.3
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/operamini.apk
 description=Visualiza la web con Opera Mini 
+verify=on
 type=recommended
 
 name=Doraemon Fishing 2s
@@ -145,6 +154,7 @@ minandroid=2.3
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/doraemonfishing2s.apk
 description=Juega una aventura Con Doraemon y sos amigos Pescando. 
+verify=on
 type=recommended
 
 name=Angry Birds
@@ -159,10 +169,8 @@ minandroid=2.3
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/AngryBirds.apk
 description=Juego de pajarracos africanos.
+verify=on
 type=recommended
-
-
-
 
 # Nuevas aplicaciones añadidas automáticamente
 
@@ -178,9 +186,8 @@ minandroid=2.2
 appversion=2.0.26
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/youtubeflashback.apk
 description=Aplicación Youtubeflashback para Android 2.2.
+verify=on
 type=recommended
-
-
 
 name=Youtube
 developer=Unknown
@@ -194,6 +201,7 @@ minandroid=2.2
 appversion=2.2.16
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/youtube.apk
 description=Aplicación Youtube para Android 2.2.
+verify=on
 type=recommended
 
 name=Lucky patcher
@@ -208,6 +216,7 @@ minandroid=2.2
 appversion=5.0.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/luckypatcher.apk
 description=Aplicación Retrogram para Android 2.2.
+verify=on
 type=recommended
 
 name=Retrogram
@@ -222,6 +231,7 @@ minandroid=2.2
 appversion=5.0.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/retrogram.apk
 description=Aplicación Retrogram para Android 2.2.
+verify=on
 type=recommended
 
 name=viabrowser
@@ -236,8 +246,8 @@ minandroid=2.2
 appversion=5.0.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/viabrowser.apk
 description=Aplicación Retrogram para Android 2.2.
+verify=on
 type=recommended
-
 
 name=Retrogramdifferentbundleid
 developer=Unknown
@@ -251,8 +261,8 @@ minandroid=2.2
 appversion=5.0.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/retrogramdifferentbundleid.apk
 description=Aplicación Retrogramdifferentbundleid para Android 2.2.
+verify=on
 type=recommended
-
 
 name=Cosmicflow
 developer=Unknown
@@ -266,8 +276,8 @@ minandroid=2.3
 appversion=1.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cosmicflow.apk
 description=Aplicación Cosmicflow para Android 5.1.
+verify=on
 type=recommended
-
 
 name=Youtube flashback
 developer=Unknown
@@ -281,8 +291,8 @@ minandroid=2.2
 appversion=2.0.26
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube%20Flashback.apk
 description=Aplicación Youtube flashback para Android 2.2.
+verify=on
 type=recommended
-
 
 name=Playservices
 developer=Unknown
@@ -296,8 +306,8 @@ minandroid=2.3
 appversion=10.0.84 (030-137749526)
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/playservices.apk
 description=Aplicación Playservices para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Playstore
 developer=Unknown
@@ -311,8 +321,8 @@ minandroid=2.3
 appversion=6.2.02.A-all [0] 2730934
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/playstore.apk
 description=Aplicación Playstore para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Accountmanager
 developer=Unknown
@@ -326,8 +336,8 @@ minandroid=2.2
 appversion=4.1.2-509230
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/accountmanager.apk
 description=Aplicación Accountmanager para Android 2.2.
+verify=on
 type=recommended
-
 
 name=Canhorozstackpiecetower
 developer=Unknown
@@ -341,8 +351,8 @@ minandroid=2.3
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/canhorozstackpiecetower.apk
 description=Aplicación Canhorozstackpiecetower para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Litobytesoftworksmadoballd
 developer=Unknown
@@ -356,14 +366,8 @@ minandroid=2.0.1
 appversion=1.5.2
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/litobytesoftworksmadoballd.apk
 description=Aplicación Litobytesoftworksmadoballd para Android 2.0.1.
+verify=on
 type=recommended
-
-
-
-
-
-
-
 
 name=Five Nights at Freddy's 1
 developer=Scott Cawton
@@ -377,6 +381,7 @@ minandroid=2.3
 appversion=1.2.1
 package=https://www.mediafire.com/file/a2vfr42l3wuk6do/fnaf1.apk/file
 description=Sobrevive cinco noches como guardia nocturno en una pizzería aparentemente inocente donde los animatrónicos cobran vida al caer la noche. Controla cámaras de seguridad, administra energía limitada y evita que las criaturas se acerquen. Un clásico del terror indie que combina estrategia, tensión psicológica y jumpscares inolvidables.
+verify=on
 type=recommended
 
 name=Five Nights at Freddy's 2
@@ -391,6 +396,7 @@ minandroid=2.3
 appversion=1.2.1
 package=https://www.mediafire.com/file/33vfjjldk8a61m3/fnaf2.apk/file
 description=Precuela del éxito original que aumenta la dificultad y el terror. Enfréntate a nuevos animatrónicos más agresivos, usa tu linterna, máscara de Freddy y cámaras para sobrevivir. Más enemigos, más tensión y mecánicas nuevas hacen que cada noche sea un desafío extremo de reflejos y estrategia.
+verify=on
 type=recommended
 
 name=Five Nights at Freddy's 3
@@ -405,6 +411,7 @@ minandroid=2.3
 appversion=1.2.1
 package=https://www.mediafire.com/file/385awmee4cbyllt/fnaf3.apk/file
 description=Treinta años después del cierre de Freddy Fazbear’s Pizza, una atracción de terror revive la leyenda… y algo más oscuro ha despertado. Con un único enemigo real pero sistemas que fallan constantemente, deberás mantener el control mientras el miedo aumenta. Una entrega más psicológica y atmosférica.
+verify=on
 type=recommended
 
 name=Five Nights at Freddy's 4
@@ -419,6 +426,7 @@ minandroid=2.3
 appversion=1.2.1
 package=https://www.mediafire.com/file/0aahtl2hosbwkbx/fnaf4.apk/file
 description=La entrega más terrorífica de la saga. Ya no estás en una oficina… estás en tu habitación. Escucha atentamente, controla puertas, armario y cama mientras criaturas pesadillescas acechan en la oscuridad. Sin cámaras ni ayuda tecnológica, solo tus oídos y tus nervios te mantendrán con vida.
+verify=on
 type=recommended
 
 name=Five Nights at Freddy's sister location
@@ -433,9 +441,8 @@ minandroid=2.3
 appversion=1.2.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/andregalpoolbilliard.apk
 description=Aplicación Andregalpoolbilliard para Android 2.3.
+verify=on
 type=recommended
-
-
 
 name=Andregalpoolbilliard
 developer=Unknown
@@ -449,8 +456,8 @@ minandroid=2.3
 appversion=1.2.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/andregalpoolbilliard.apk
 description=Aplicación Andregalpoolbilliard para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Androidemu
 developer=Unknown
@@ -464,6 +471,7 @@ minandroid=2.0
 appversion=2.7
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/androidemu.apk
 description=Aplicación Androidemu para Android 2.0.
+verify=on
 type=recommended
 
 name=zamedevgloomydungeonsfullnfree
@@ -478,9 +486,8 @@ minandroid=2.0
 appversion=2.7
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/zamedevgloomydungeonsfullnfree.apk
 description=Aplicación Androidemu para Android 2.0.
+verify=on
 type=recommended
-
-
 
 name=Cardrivingracingd
 developer=Unknown
@@ -494,8 +501,8 @@ minandroid=2.3.3
 appversion=1.24
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cardrivingracingd.apk
 description=Aplicación Cardrivingracingd para Android 2.3.3.
+verify=on
 type=recommended
-
 
 name=Tpcstldtwozerogame
 developer=Unknown
@@ -509,8 +516,8 @@ minandroid=2.1
 appversion=1.1.9
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/tpcstldtwozerogame.apk
 description=Aplicación Tpcstldtwozerogame para Android 2.1.
+verify=on
 type=recommended
-
 
 name=Progimaxspray
 developer=Unknown
@@ -524,8 +531,8 @@ minandroid=2.3
 appversion=spray-19.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/progimaxspray.apk
 description=Aplicación Progimaxspray para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Cmplaytiles
 developer=Unknown
@@ -539,8 +546,8 @@ minandroid=2.3.3
 appversion=1.0.0.195
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cmplaytiles.apk
 description=Aplicación Cmplaytiles para Android 2.3.3.
+verify=on
 type=recommended
-
 
 name=Maigemespapasdonuterialink
 developer=Unknown
@@ -554,8 +561,8 @@ minandroid=2.3
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/maigemespapasdonuterialink.apk
 description=Aplicación Maigemespapasdonuterialink para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Dotgearsflappybird
 developer=Unknown
@@ -569,9 +576,8 @@ minandroid=2.2
 appversion=1.3
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/dotgearsflappybird.apk
 description=Aplicación Dotgearsflappybird para Android 2.2.
+verify=on
 type=recommended
-
-
 
 name=Polarbitrthunderlite
 developer=Unknown
@@ -585,8 +591,8 @@ minandroid=2.3
 appversion=1.0.11
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/polarbitrthunderlite.apk
 description=Aplicación Polarbitrthunderlite para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Sand
 developer=Unknown
@@ -600,8 +606,8 @@ minandroid=2.3.3
 appversion=101 Fox
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/sand.apk
 description=Aplicación Sand para Android 2.3.3.
+verify=on
 type=recommended
-
 
 name=Com.polarbit.rthunderlite_v116
 developer=Unknown
@@ -615,8 +621,8 @@ minandroid=2.3
 appversion=1.1.6
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.polarbit.rthunderlite_v116.apk
 description=Aplicación Com.polarbit.rthunderlite_v116 para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Xinshengbubbleshooter
 developer=Unknown
@@ -630,13 +636,11 @@ minandroid=2.3
 appversion=3.5
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/xinshengbubbleshooter.apk
 description=Aplicación Xinshengbubbleshooter para Android 2.3.
+verify=on
 type=recommended
-
-
 
 ión Segasonicdash para Android 2.3.3.
 type=recommended
-
 
 name=Pouapp
 developer=Unknown
@@ -650,8 +654,8 @@ minandroid=2.3
 appversion=1.4.73
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/pouapp.apk
 description=Aplicación Pouapp para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Freegameblockpuzzlemania
 developer=Unknown
@@ -665,9 +669,8 @@ minandroid=2.3
 appversion=1.0.6
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/freegameblockpuzzlemania.apk
 description=Aplicación Freegameblockpuzzlemania para Android 2.3.
+verify=on
 type=recommended
-
-
 
 name=Dogbytegamesblockyrush
 developer=Unknown
@@ -681,8 +684,8 @@ minandroid=2.3
 appversion=1.2.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/dogbytegamesblockyrush.apk
 description=Aplicación Dogbytegamesblockyrush para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Subwaysurfers
 developer=Unknown
@@ -696,8 +699,8 @@ minandroid=2.0
 appversion=1.6.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/subwaysurfers.apk
 description=Aplicación Subwaysurfers para Android 2.0.
+verify=on
 type=recommended
-
 
 name=Kickktb
 developer=Unknown
@@ -711,9 +714,8 @@ minandroid=2.3
 appversion=2.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kickktb.apk
 description=Aplicación Kickktb para Android 2.3.
+verify=on
 type=recommended
-
-
 
 name=Limadoodlejump
 developer=Unknown
@@ -727,8 +729,8 @@ minandroid=2.1
 appversion=1.0.3
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/limadoodlejump.apk
 description=Aplicación Limadoodlejump para Android 2.1.
+verify=on
 type=recommended
-
 
 name=Jetstartgameschess
 developer=Unknown
@@ -742,8 +744,8 @@ minandroid=2.3
 appversion=2.5.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/jetstartgameschess.apk
 description=Aplicación Jetstartgameschess para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Talking Ben
 developer=Unknown
@@ -757,8 +759,8 @@ minandroid=2.1
 appversion=1.2.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/outfittalkingben.apk
 description=Aplicación Outfittalkingben para Android 2.1.
+verify=on
 type=recommended
-
 
 name=Ansanghadrdriving
 developer=Unknown
@@ -772,8 +774,8 @@ minandroid=2.2
 appversion=1.17
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/ansanghadrdriving.apk
 description=Aplicación Ansanghadrdriving para Android 2.2.
+verify=on
 type=recommended
-
 
 name=Pou
 developer=Unknown
@@ -787,8 +789,8 @@ minandroid=2.3
 appversion=1.4.73
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/pou.apk
 description=Aplicación Pou para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Topfreegamesbikeracefreeworld
 developer=Unknown
@@ -802,8 +804,8 @@ minandroid=2.2
 appversion=2.8
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/topfreegamesbikeracefreeworld.apk
 description=Aplicación Topfreegamesbikeracefreeworld para Android 2.2.
+verify=on
 type=recommended
-
 
 name=Minecraft Pocket Edition 2
 developer=Unknown
@@ -817,8 +819,8 @@ minandroid=2.3
 appversion=0.7.3
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/mojangminecraftpe.apk
 description=Aplicación Mojangminecraftpe para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Minecraft Pocket Edition 
 developer=Unknown
@@ -832,8 +834,8 @@ minandroid=2.3
 appversion=0.5.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/minecraftpocketedition.apk
 description=Aplicación Minecraftpocketedition para Android 2.3.
+verify=on
 type=recommended
-
 
 name=Natenaiglowhockey
 developer=Unknown
@@ -847,8 +849,8 @@ minandroid=1.6
 appversion=1.2.11
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/natenaiglowhockey.apk
 description=Aplicación Natenaiglowhockey para Android 1.6.
+verify=on
 type=recommended
-
 
 name=Stbgame
 developer=Unknown
@@ -862,4 +864,5 @@ minandroid=2.2
 appversion=1.4
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/stbgame.apk
 description=Aplicación Stbgame para Android 2.2.
+verify=on
 type=recommended
