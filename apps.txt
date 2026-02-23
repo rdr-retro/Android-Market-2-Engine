@@ -196,6 +196,19 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Youtube para Android 2.2.
 type=recommended
 
+name=Lucky patcher
+developer=Unknown
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/luckypatcher.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=apps
+minandroid=2.2
+appversion=5.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/luckypatcher.apk
+description=Aplicación Retrogram para Android 2.2.
+type=recommended
 
 name=Retrogram
 developer=Unknown
@@ -509,21 +522,6 @@ minandroid=2.3.3
 appversion=101 Fox
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/sand.apk
 description=Aplicación Sand para Android 2.3.3.
-type=recommended
-
-
-name=Rovioangrybirds
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/rovioangrybirds.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=1.6
-appversion=2.0.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rovioangrybirds.apk
-description=Aplicación Rovioangrybirds para Android 1.6.
 type=recommended
 
 
