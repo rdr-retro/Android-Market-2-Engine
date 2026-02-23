@@ -166,7 +166,7 @@ type=recommended
 
 # Nuevas aplicaciones añadidas automáticamente
 
-name=Youtubeflashback
+name=Youtube flashback
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtubeflashback.png
@@ -196,21 +196,6 @@ description=Aplicación Dcnogms para Android 4.1.
 type=recommended
 
 
-name=Viabrowser
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/default_icon.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=apps
-minandroid=2.3
-appversion=4.0.9
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/viabrowser.apk
-description=Aplicación Viabrowser para Android 2.3.
-type=recommended
-
-
 name=Youtube
 developer=Unknown
 starts=5.0
@@ -223,21 +208,6 @@ minandroid=2.2
 appversion=2.2.16
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/youtube.apk
 description=Aplicación Youtube para Android 2.2.
-type=recommended
-
-
-name=Gen
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gen.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=apps
-minandroid=2.3
-appversion=126.21 - Stable
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gen.apk
-description=Aplicación Gen para Android 2.3.
 type=recommended
 
 
@@ -255,21 +225,19 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Retrogram para Android 2.2.
 type=recommended
 
-
-name=Facebook
+name=viabrowser
 developer=Unknown
 starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/facebook.png
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/viabrowser.png
 screenshot1=default_c1.png
 screenshot2=default_c2.png
 screenshot3=default_c3.png
 category=apps
-minandroid=2.3
-appversion=18.0.0.24.14
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/facebook.apk
-description=Aplicación Facebook para Android 2.3.
+minandroid=2.2
+appversion=5.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/viabrowser.apk
+description=Aplicación Retrogram para Android 2.2.
 type=recommended
-
 
 name=Dc
 developer=Unknown
@@ -421,7 +389,7 @@ description=Aplicación Kiloosubwaysurf para Android 2.3.3.
 type=recommended
 
 
-name=Talkingtomcat
+name=Talking tom
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/talkingtomcat.png
