@@ -595,7 +595,7 @@ description=Aplicación Accountmanager para Android 2.2.
 verify=off
 type=recommended
 
-name=Canhorozstackpiecetower
+name=Stack Piece Tower
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/canhorozstackpiecetower.png
@@ -1122,3 +1122,54 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=Aplicación Stbgame para Android 2.2.
 verify=off
 type=recommended
+
+name=Talking Tom
+developer=Outfit
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/outfittalkingtom.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.2
+appversion=1.4
+package=https://www.mediafire.com/file/uayvxqougccn2n2/outfittalkingtom.apk/file
+description=Aplicación Stbgame para Android 2.2.
+verify=off
+type=recommended
+
+name=Sonic Dash 
+developer=Outfit
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/segasonicdash.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.2
+appversion=1.4
+package=https://www.mediafire.com/file/3w0ncoifw8xtvwr/segasonicdash.apk/file
+description=Aplicación Stbgame para Android 2.2.
+verify=off
+type=recommended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
