@@ -7,7 +7,7 @@ package=market2.3.apk
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
 
 name=Whasap2
-developer=Raúl Díaz Gutiérrez
+developer=RDR
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/whasap.png
 screenshot1=whasapc1.png
@@ -22,7 +22,7 @@ verify=on
 type=recommended
 
 name=YouTube2
-developer=Raúl Díaz Gutiérrez
+developer=RDR
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2.png
 screenshot1=youtubec1.png
@@ -37,7 +37,7 @@ verify=on
 type=recommended
 
 name=Discroto2
-developer=Sleap0x7b Edit by Raúl Díaz Gutiérrez
+developer=Sleap0x7b Edit by RDR
 starts=4.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/discroto2.png
 screenshot1=discrotoc1.png
@@ -52,7 +52,7 @@ verify=on
 type=recommended
 
 name=YouTube2tv
-developer=Raúl Díaz Gutiérrez
+developer=RDR
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2tv.png
 screenshot1=youtube2tvc1.png
@@ -91,7 +91,7 @@ type=recommended
 name=Grand Theft Auto III GTA III
 developer=Rockstar Games
 starts=3.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gtaIIIc.png
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gtaIII.png
 screenshot1=IIIc1.png
 screenshot2=IIIc2.png
 screenshot3=IIIc3.png
@@ -354,7 +354,7 @@ verify=on
 type=recommended
 
 name=Fortunecam
-developer=Raúl Díaz Gutiérrez
+developer=RDR
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/fortunecam.png
 screenshot1=fortunecamc1.png
@@ -399,7 +399,7 @@ verify=off
 type=recommended
 
 name=Doraemon Fishing 2s
-developer=Opera
+developer=doraemon
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/doraemonfishing2s.png
 screenshot1=doraemonfishing2sc1.png
