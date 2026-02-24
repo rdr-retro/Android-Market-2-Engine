@@ -73,19 +73,18 @@ type=recommended
 
 #Grand-Theft-Auto-Vice-City-V1.07.apk
 name=Grand Theft Auto Vice City GTA
-developer=Raúl Díaz Gutiérrez
+developer=Rockstar Games
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gtavc.png
-screenshot1=youtube2tvc1.png
-screenshot2=youtube2tvc2.png
-screenshot3=youtube2tvc3.png
+screenshot1=gtavcc1.png
+screenshot2=gtavcc2.png
+screenshot3=gtavcc3.png
 category=apps
 minandroid=2.3
 appversion=1.07
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Grand-Theft-Auto-Vice-City-V1.07.apk
 obb=https://www.mediafire.com/file/q1tt8ijrouqtdqg/com.rockstargames.gtavc.zip/file
-description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
-verify=on
+description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
 type=recommended
 
 
