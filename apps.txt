@@ -1,6 +1,6 @@
-marketversion=2.3
+marketversion=2.4
 package=market.apk
-market2.3version=2.3
+market2.3version=2.4
 package=market2.3.apk
 
 # 4 aplicaciones recomendadas (boton 1..4)
