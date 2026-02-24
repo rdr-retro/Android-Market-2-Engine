@@ -79,7 +79,7 @@ iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gtavc.pn
 screenshot1=gtavcc1.png
 screenshot2=gtavcc2.png
 screenshot3=gtavcc3.png
-category=apps
+category=games
 minandroid=2.3
 appversion=1.07
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Grand-Theft-Auto-Vice-City-V1.07.apk
@@ -137,6 +137,22 @@ minandroid=4.1
 appversion=1.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rubenportablethegame.apk
 description=Juega a Ruben portable y haz que ruben no caiga en manos de la de fol.
+verify=on
+type=recommended
+
+#zaza-remote-3-7-0.apk
+name=zaza remote
+developer=zaza
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/rubenportablethegame.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=3.7.0
+package=https://www.mediafire.com/file/viuu94116qrxool/zaza-remote-3-7-0.apk/file
+description=controla tu tele con tu dispositivo android
 verify=on
 type=recommended
 
