@@ -87,6 +87,27 @@ obb=https://www.mediafire.com/file/q1tt8ijrouqtdqg/com.rockstargames.gtavc.zip/f
 description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
 type=recommended
 
+#Grand-Theft-Auto-Vice-City-V1.07.apk
+name=Grand Theft Auto III GTA III
+developer=Rockstar Games
+starts=3.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/gtaIIIc.png
+screenshot1=IIIc1.png
+screenshot2=IIIc2.png
+screenshot3=IIIc3.png
+category=games
+minandroid=2.3
+appversion=1.07
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Treschoches.apk
+obb=https://www.mediafire.com/file/3s2hiskmo30ybv9/com.rockstar.gta3.zip/file
+description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
+type=recommended
+
+
+
+
+
+
 
 
 
