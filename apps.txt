@@ -51,6 +51,21 @@ description=Discord en Android 2.3.0 Funciona perfectamente Envia mensajes y fot
 verify=on
 type=recommended
 
+name=2ds Camera
+developer=RDR
+starts=3.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/2dscamera.png
+screenshot1=youtube2tvc1.png
+screenshot2=youtube2tvc2.png
+screenshot3=youtube2tvc3.png
+category=apps
+minandroid=4.1
+appversion=1.0
+package=https://www.mediafire.com/file/6jbibyhfrpf4jmx/2dscamera.apk/file
+description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
+verify=on
+type=recommended
+
 name=YouTube2tv
 developer=RDR
 starts=3.0
@@ -1272,7 +1287,6 @@ package=https://www.mediafire.com/file/6ppqq9z2r5rmc6c/gameloftgandgloftasphalta
 description=Aplicación Stbgame para Android 2.2.
 verify=off
 type=recommended
-
 
 
 
