@@ -165,7 +165,7 @@ type=recommended
 name=zaza remote
 developer=zaza
 starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/rubenportablethegame.png
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zazaremote.png
 screenshot1=rubenportablethegamec1.png
 screenshot2=rubenportablethegamec2.png
 screenshot3=rubenportablethegamec3.png
@@ -1213,13 +1213,65 @@ description=Aplicación Stbgame para Android 2.2.
 verify=off
 type=recommended
 
+name=Jetpackoyride
+developer=ruben editors
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/jetpack.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.2
+appversion=1.4
+package=https://www.mediafire.com/file/g4dxw2fjvvklvf4/halfbrickjetpackjoyride.apk/file
+description=Aplicación Stbgame para Android 2.2.
+verify=off
+type=recommended
 
+name=Geometry Dash
+developer=ruben editors
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/geometrydash.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.2
+appversion=1.4
+package=https://www.mediafire.com/file/3w0ncoifw8xtvwr/segasonicdash.apk/file
+description=Aplicación Stbgame para Android 2.2.
+verify=off
+type=recommended
 
+name=Geometry Dash Jump
+developer=ruben editors
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/geometryjump.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.2
+appversion=1.4
+package=https://www.mediafire.com/file/bcc6e98fedf2bw9/robtopxgeometryjump.apk/file
+description=Aplicación Stbgame para Android 2.2.
+verify=off
+type=recommended
 
-
-
-
-
+name=Asphalt 5
+developer=ruben editors
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/asphalt5.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.2
+appversion=1.4
+package=https://www.mediafire.com/file/6ppqq9z2r5rmc6c/gameloftgandgloftasphaltasphalt.apk/file
+description=Aplicación Stbgame para Android 2.2.
+verify=off
+type=recommended
 
 
 
