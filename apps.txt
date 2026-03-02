@@ -160,6 +160,20 @@ description=Una app que te permite Gestionar tus archivos en tu dispositivo andr
 verify=off
 type=recommended
 
+name=Galery 4
+developer=Google
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/Galery 4.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Galery 4.apk
+description=Haz fotos, grava video y haz fotos esfericas, Galeria incluida Android 4
+verify=on
+type=recommended
 
 name=Ruben Portable The game
 developer=Joiko
