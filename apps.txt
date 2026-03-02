@@ -160,7 +160,7 @@ description=Una app que te permite Gestionar tus archivos en tu dispositivo andr
 verify=off
 type=recommended
 
-name=Galery 4
+name=Galery
 developer=Google
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/Galery 4.png
