@@ -51,21 +51,6 @@ description=Discord en Android 2.3.0 Funciona perfectamente Envia mensajes y fot
 verify=on
 type=recommended
 
-name=2ds Camera
-developer=RDR
-starts=3.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/2dscamera.png
-screenshot1=youtube2tvc1.png
-screenshot2=youtube2tvc2.png
-screenshot3=youtube2tvc3.png
-category=apps
-minandroid=4.1
-appversion=1.0
-package=https://www.mediafire.com/file/hd277u7trfabfh9/2dscamera2.apk/file
-description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
-verify=on
-type=recommended
-
 name=YouTube2tv
 developer=RDR
 starts=3.0
@@ -160,20 +145,6 @@ description=Una app que te permite Gestionar tus archivos en tu dispositivo andr
 verify=off
 type=recommended
 
-name=Galery
-developer=Google
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/Galery 4.png
-screenshot1=Galery 4c1.png
-screenshot2=Galery 4c2.png
-screenshot3=Galery 4c3.png
-category=games
-minandroid=4.1
-appversion=1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Galery 4.apk
-description=Haz fotos, grava video y haz fotos esfericas, Galeria incluida Android 4
-verify=on
-type=recommended
 
 name=Ruben Portable The game
 developer=Joiko
@@ -1122,6 +1093,22 @@ description=Aplicación Minecraftpocketedition para Android 2.3.
 verify=off
 type=recommended
 
+#Minecraft-PE-0.2.1-demo.apk
+name=Minecraft Pocket Edition 
+developer=Unknown
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
+screenshot1=default_c1.png
+screenshot2=default_c2.png
+screenshot3=default_c3.png
+category=games
+minandroid=2.3
+appversion=0.5.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Minecraft-PE-0.2.1-demo.apk.apk
+description=Aplicación Minecraftpocketedition para Android 2.3.
+verify=off
+type=recommended
+
 name=Natenaiglowhockey
 developer=Unknown
 starts=5.0
@@ -1301,6 +1288,7 @@ package=https://www.mediafire.com/file/6ppqq9z2r5rmc6c/gameloftgandgloftasphalta
 description=Aplicación Stbgame para Android 2.2.
 verify=off
 type=recommended
+
 
 
 
