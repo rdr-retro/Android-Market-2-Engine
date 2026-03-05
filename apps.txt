@@ -1093,7 +1093,6 @@ description=Aplicación Minecraftpocketedition para Android 2.3.
 verify=off
 type=recommended
 
-#Minecraft-PE-0.2.1-demo.apk
 name=Demo Minecraft Pocket Edition
 developer=Unknown
 starts=5.0
