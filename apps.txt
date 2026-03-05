@@ -1094,7 +1094,7 @@ verify=off
 type=recommended
 
 #Minecraft-PE-0.2.1-demo.apk
-name=Minecraft Pocket Edition 
+name=Minecraft Pocket Edition Demo
 developer=Unknown
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
