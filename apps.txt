@@ -1,6 +1,8 @@
-marketversion=2.4
+marketversion=2.5
 package=market.apk
-market2.3version=2.4
+market2.0version=2.5
+package=market2.0.apk
+market2.3version=2.5
 package=market2.3.apk
 
 # 4 aplicaciones recomendadas (boton 1..4)
@@ -1376,7 +1378,4 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 description=
 verify=on
 type=recommended
-
-
-
 
