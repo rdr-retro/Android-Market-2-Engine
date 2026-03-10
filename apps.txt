@@ -1319,7 +1319,7 @@ description=Aplicación Stbgame para Android 2.2.
 verify=off
 type=recommended
 
-name=GBCoid
+name=GBCoid game boy color
 developer=Birdman
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/GBCoid_1.8.5_APKPure.png
@@ -1334,7 +1334,7 @@ description=
 verify=on
 type=recommended
 
-name=Gensoid
+name=Gensoid mega drive sega genesis
 developer=androidemu.com
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Gensoid_2.4.3_APKPure.png
@@ -1379,7 +1379,7 @@ description=
 verify=on
 type=recommended
 
-name=GameBoid
+name=GameBoid gameboy Advance
 developer=androidemu.com
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gameboid-2-4-7-en-android.png
@@ -1394,7 +1394,7 @@ description=
 verify=on
 type=recommended
 
-name=Nesoid
+name=Nesoid nes
 developer=Birdman
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/nesoid-2-5-en-android.png
@@ -1424,7 +1424,7 @@ description=
 verify=on
 type=recommended
 
-name=Yabause
+name=Yabause sega saturn
 developer=FDroid
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/org.yabause.android_1.png
@@ -1439,7 +1439,7 @@ description=
 verify=on
 type=recommended
 
-name=SNesoid
+name=SNesoid nes
 developer=androidemu.com
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/snesoid-2-2-2.png
