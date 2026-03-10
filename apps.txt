@@ -1,6 +1,6 @@
 marketversion=2.5
 package=market.apk
-market2.0version=2.5
+market2.0version=2.6
 package=market2.0.apk
 market2.3version=2.5
 package=market2.3.apk
