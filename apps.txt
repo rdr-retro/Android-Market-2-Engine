@@ -120,9 +120,9 @@ obb=https://www.mediafire.com/file/3s2hiskmo30ybv9/com.rockstar.gta3.zip/file
 description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
 type=recommended
 
-#Grand-Theft-Auto-III-V1.07.apk
+#sonic-cd
 name=Sonic cd
-developer=Rockstar Games
+developer=sega
 starts=3.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/Sonic_CD-1.0.5.png
 screenshot1=IIIc1.png
@@ -144,13 +144,10 @@ type=recommended
 
 
 
-
-
 # Lista normal del feed (debajo)
 
-
 name=Drastic
-developer=ES Global
+developer=Unknown
 starts=4.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/drastic.png
 screenshot1=esfileexplorerc1.png
