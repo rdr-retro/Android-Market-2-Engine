@@ -104,7 +104,7 @@ obb=https://www.mediafire.com/file/q1tt8ijrouqtdqg/com.rockstargames.gtavc.zip/f
 description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
 type=recommended
 
-#Grand-Theft-Auto-Vice-City-V1.07.apk
+#Grand-Theft-Auto-III-V1.07.apk
 name=Grand Theft Auto III GTA III
 developer=Rockstar Games
 starts=3.0
@@ -119,6 +119,23 @@ package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main
 obb=https://www.mediafire.com/file/3s2hiskmo30ybv9/com.rockstar.gta3.zip/file
 description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
 type=recommended
+
+#Grand-Theft-Auto-III-V1.07.apk
+name=Sonic cd
+developer=Rockstar Games
+starts=3.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/Sonic_CD-1.0.5.png
+screenshot1=IIIc1.png
+screenshot2=IIIc2.png
+screenshot3=IIIc3.png
+category=games
+minandroid=2.3
+appversion=1.05
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Sonic_CD-1.0.5.apk
+obb=https://www.mediafire.com/file/3s2hiskmo30ybv9/com.rockstar.gta3.zip/file
+description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
+type=recommended
+
 
 
 
@@ -506,20 +523,7 @@ description=Aplicación Retrogram para Android 2.2.
 verify=off
 type=recommended
 
-name=Retrogram
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/retrogram.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=apps
-minandroid=2.2
-appversion=5.0.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/retrogram.apk
-description=Aplicación Retrogram para Android 2.2.
-verify=off
-type=recommended
+
 
 name=viabrowser
 developer=Unknown
@@ -929,20 +933,6 @@ type=recommended
 ión Segasonicdash para Android 2.3.3.
 type=recommended
 
-name=Pouapp
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/pouapp.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.3
-appversion=1.4.73
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/pouapp.apk
-description=Aplicación Pouapp para Android 2.3.
-verify=off
-type=recommended
 
 name=Block Puzzle mania 2016
 developer=Unknown
@@ -1031,21 +1021,6 @@ minandroid=2.3
 appversion=2.5.1
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/jetstartgameschess.apk
 description=Aplicación Jetstartgameschess para Android 2.3.
-verify=off
-type=recommended
-
-name=Talking Ben
-developer=Unknown
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/outfittalkingben.png
-screenshot1=default_c1.png
-screenshot2=default_c2.png
-screenshot3=default_c3.png
-category=games
-minandroid=2.1
-appversion=1.2.1
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/outfittalkingben.apk
-description=Aplicación Outfittalkingben para Android 2.1.
 verify=off
 type=recommended
 
@@ -1349,21 +1324,6 @@ description=
 verify=on
 type=recommended
 
-name=PrBoom For Android
-developer=FDroid
-starts=
-iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/android.game.prboom_31.png
-screenshot1=c1.png
-screenshot2=c2.png
-screenshot3=c3.png
-category=apps
-minandroid=2.0
-appversion=1.3.1-beta
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/android.game.prboom_31.apk
-description=
-verify=on
-type=recommended
-
 name=Quake2
 developer=FDroid
 starts=
@@ -1603,7 +1563,7 @@ minandroid=1.6
 appversion=2.3.0
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/angry-birds-2-3-0-en-android.apk
 description=
-verify=on
+verify=off
 type=recommended
 
 name=Angry Birds
