@@ -132,7 +132,7 @@ category=games
 minandroid=2.3
 appversion=1.05
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Sonic_CD-1.0.5.apk
-obb=https://www.mediafire.com/file/3s2hiskmo30ybv9/com.rockstar.gta3.zip/file
+obb=https://www.mediafire.com/file/o2e050qk2zwuvdp/com.sega.soniccd.classic.zip/file
 description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
 type=recommended
 
