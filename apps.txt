@@ -1,9 +1,9 @@
-marketversion=2.6
+marketversion=2.7
 package=market.apk
-market2.0version=2.6
-package=market2.0.apk
-market2.3version=2.6
+market2.3version=2.7
 package=market2.3.apk
+market2.0version=2.7
+package=market2.0.apk
 
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
@@ -1462,7 +1462,7 @@ screenshot1=c1.png
 screenshot2=c2.png
 screenshot3=c3.png
 category=apps
-minandroid=1.5
+minandroid=4.0
 appversion=2.2.2
 package=https://www.mediafire.com/file/03ht2mafns7rmog/Discord-nogms.apk/file
 description=
