@@ -1469,10 +1469,52 @@ description=
 verify=on
 type=recommended
 
-
-
-
+name=My OldBoy!
+developer=
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My OldBoy v2.0.1 (Paid).png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=5.0
+appversion=2.0.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My OldBoy v2.0.1 (Paid).apk
+description=
+verify=on
 type=recommended
+
+name=My Boy!
+developer=A1
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My_Boy!_-_Gba_Emulator_2.0.9_1759764474_latestmodapks.com.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=6.0
+appversion=2.0.9
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My_Boy!_-_Gba_Emulator_2.0.9_1759764474_latestmodapks.com.apk
+description=
+verify=on
+type=recommended
+
+name=reicast
+developer=Stefanos Kornilios Mitsis Poiitidis
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/reicast-dreamcast-emulator-r20-04.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=4.1
+appversion=r20.04
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/reicast-dreamcast-emulator-r20-04.apk
+description=
+verify=on
+type=recommended
+
+
 
 #---------------------------------------------------------------
 
