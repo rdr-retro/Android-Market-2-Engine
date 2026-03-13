@@ -133,7 +133,14 @@ minandroid=2.3
 appversion=1.05
 package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Sonic_CD-1.0.5.apk
 obb=https://www.mediafire.com/file/o2e050qk2zwuvdp/com.sega.soniccd.classic.zip/file
-description=Revive el clásico mundo abierto ambientado en los años 80 con Grand Theft Auto: Vice City para Android. Explora una ciudad enorme llena de misiones, vehículos, armas y libertad total mientras asciendes en el mundo criminal. Disfruta gráficos mejorados, controles optimizados para pantalla táctil y una banda sonora legendaria que define toda una época. Completa misiones, conduce coches icónicos y construye tu imperio en una de las experiencias más influyentes de la historia de los videojuegos.verify=on
+description=Sonic CD es una de las aventuras más emblemáticas del erizo azul. En esta entrega, Sonic viaja a la misteriosa Little Planet, un pequeño planeta que aparece sobre el lago Never Lake una vez al año. Pero el malvado Doctor Eggman ha encadenado el planeta y ha creado versiones robóticas de Sonic para dominar el tiempo.
+
+Corre a toda velocidad a través de coloridos niveles, descubre caminos secretos y usa los viajes en el tiempo para cambiar el futuro de cada zona. Si logras crear un buen futuro, Little Planet podrá ser liberado de las máquinas de Eggman.
+
+Durante la aventura también conocerás a Amy Rose, una fan incondicional de Sonic, y te enfrentarás a Metal Sonic, uno de los rivales más rápidos y peligrosos creados por Eggman.
+
+Con música inolvidable, niveles llenos de secretos y una jugabilidad basada en velocidad y exploración, Sonic CD es un clásico imprescindible para los fans de Sonic y de los juegos de plataformas.
+verify=on
 type=recommended
 
 
@@ -1422,6 +1429,21 @@ category=apps
 minandroid=4.0
 appversion=2.2.2
 package=https://www.mediafire.com/file/03ht2mafns7rmog/Discord-nogms.apk/file
+description=
+verify=on
+type=recommended
+
+name=My OldBoy!
+developer=Fast Emulator
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My OldBoy!_1.5.1.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=2.3
+appversion=1.5.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My OldBoy!_1.5.1.apk
 description=
 verify=on
 type=recommended
