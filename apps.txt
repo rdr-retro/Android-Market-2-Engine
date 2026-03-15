@@ -1433,7 +1433,7 @@ description=
 verify=on
 type=recommended
 
-name=My OldBoy!
+name=My OldBoy! Emulador Gameboy clasic
 developer=Fast Emulator
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My OldBoy!_1.5.1.png
@@ -1448,7 +1448,7 @@ description=
 verify=on
 type=recommended
 
-name=My OldBoy!
+name=My OldBoy! Emulador Gameboy clasic
 developer=Fast Emulator
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My OldBoy v2.0.1 (Paid).png
@@ -1463,7 +1463,7 @@ description=
 verify=on
 type=recommended
 
-name=My Boy!
+name=My Boy! Emulador Gameboy Advance
 developer=Fast Emulator
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/My_Boy!_-_Gba_Emulator_2.0.9_1759764474_latestmodapks.com.png
@@ -1478,7 +1478,7 @@ description=
 verify=on
 type=recommended
 
-name=My Boy!
+name=My Boy! Emulador Gameboy Advance
 developer=Fast Emulator
 starts=
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/MyBoy_1.7.3.png
