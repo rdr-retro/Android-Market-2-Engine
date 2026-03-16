@@ -1089,7 +1089,7 @@ verify=on
 type=recommended
 
 
-name=Demo Minecraft Pocket Edition
+name=Demo Minecraft - Pocket Edition
 developer=Mojang AB
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
@@ -1119,7 +1119,7 @@ description=Aplicación Mojangminecraftpe para Android 2.3.
 verify=off
 type=recommended
 
-name=Minecraft Pocket Edition 
+name=Minecraft - Pocket Edition 
 developer=Mojang AB
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
