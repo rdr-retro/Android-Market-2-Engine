@@ -1073,8 +1073,24 @@ description=Aplicación Topfreegamesbikeracefreeworld para Android 2.2.
 verify=off
 type=recommended
 
+name=Minecraft - Pocket Edition
+developer=Mojang AB
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/MCPE 0.14.0 BUILD 2.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=2.3
+appversion=0.14.0.b1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/MCPE 0.14.0 BUILD 2.apk
+description=
+verify=on
+type=recommended
+
+
 name=Demo Minecraft Pocket Edition
-developer=Unknown
+developer=Mojang AB
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
 screenshot1=dmpe021c1.png
@@ -1089,7 +1105,7 @@ verify=off
 type=recommended
 
 name=Minecraft Pocket Edition 2
-developer=Unknown
+developer=Mojang AB
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/mojangminecraftpe.png
 screenshot1=default_c1.png
@@ -1104,7 +1120,7 @@ verify=off
 type=recommended
 
 name=Minecraft Pocket Edition 
-developer=Unknown
+developer=Mojang AB
 starts=5.0
 iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/minecraftpocketedition.png
 screenshot1=default_c1.png
