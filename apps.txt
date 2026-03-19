@@ -1,4 +1,4 @@
-marketversion=2.7
+marketversion=2.8
 package=market.apk
 market2.3version=2.7
 package=market2.3.apk
