@@ -1,8 +1,8 @@
-marketversion=3.0
+marketversion=3.1
 package=market.apk
-market2.3version=3.0
+market2.3version=3.1
 package=market2.3.apk
-market2.0version=3.0
+market2.0version=3.1
 package=market2.0.apk
 
 # 4 aplicaciones recomendadas (boton 1..4)
@@ -193,7 +193,7 @@ screenshot3=Galery 4c3.png
 category=games
 minandroid=4.1
 appversion=1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Galery%204.apk
+package=https://github.com/rdr-retro/Android-Market-2-Engine/raw/refs/heads/main/Galery%204.apk
 description=Haz fotos, grava video y haz fotos esfericas, Galeria incluida Android 4
 verify=on
 type=recommended
