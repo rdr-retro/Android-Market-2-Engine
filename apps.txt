@@ -17537,7 +17537,20 @@ description=
 verify=on
 type=recommended
 
-
+name=Camera JB+
+developer=Moblynx
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/camerajell_SAzWv8HG.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=4.0.3
+appversion=3.0
+package=https://github.com/elerrorrdr/Android-Market-2.1/raw/refs/heads/main/camerajell_SAzWv8HG.apk
+description=
+verify=on
+type=recommended
 
 
 
