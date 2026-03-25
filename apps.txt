@@ -8,6 +8,21 @@ package=market2.0.apk
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
 
+name=emu 2
+developer=RDR
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/emu2.png
+screenshot1=youtube2tvc1.png
+screenshot2=youtube2tvc2.png
+screenshot3=youtube2tvc3.png
+category=apps
+minandroid=2.3
+appversion=1.0
+package=https://www.mediafire.com/file/hd277u7trfabfh9/superemulador.apk/file
+description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
+verify=on
+type=recommended
+
 name=Whasap2
 developer=RDR
 starts=5.0
