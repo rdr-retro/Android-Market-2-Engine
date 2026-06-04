@@ -1,9 +1,7 @@
-marketversion=3.2.0
+marketversion=3.5.0
 package=market.apk
-market2.3version=3.1.4
+market2.3version=3.5.0
 package=market2.3.apk
-market2.0version=3.2.0
-package=market2.0.apk
 
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
