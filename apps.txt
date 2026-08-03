@@ -21,18 +21,18 @@ description=Una app que te permite ver videos de YouTube en tu televisor sin anu
 verify=on
 type=recommended
 
-name=Whasap2
-developer=RDR
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/whasap.png
-screenshot1=whasapc1.png
-screenshot2=whasapc2.png
-screenshot3=whasapc3.png
+name=notPipe
+developer=AppData 174
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/io.github.gohoski.notpipe.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
 category=apps
-minandroid=4.1
-appversion=1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Whasap2.apk
-description=Una app dedicada a usar discord en android 4.X
+minandroid=1.5
+appversion=0.1.0
+package=https://raw.githubusercontent.com/elerrorrdr/Android-Market-2.1/main/notPipe-0.3.0-release.apk
+description=
 verify=on
 type=recommended
 
@@ -12042,20 +12042,7 @@ description=
 verify=on
 type=recommended
 
-name=notPipe
-developer=AppData 174
-starts=
-iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/io.github.gohoski.notpipe.png
-screenshot1=c1.png
-screenshot2=c2.png
-screenshot3=c3.png
-category=apps
-minandroid=1.5
-appversion=0.1.0
-package=https://raw.githubusercontent.com/elerrorrdr/Android-Market-2.1/main/notPipe-0.3.0-release.apk
-description=
-verify=on
-type=recommended
+
 
 name=numAi
 developer=AppData 174
