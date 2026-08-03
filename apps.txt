@@ -6,20 +6,21 @@ package=market2.3.apk
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
 
-name=emu 2
-developer=RDR
-starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/emu2.png
-screenshot1=youtube2tvc1.png
-screenshot2=youtube2tvc2.png
-screenshot3=youtube2tvc3.png
+
+name=Es File Explorer
+developer=ES Global
+starts=4.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/esfileexplorer.png
+screenshot1=esfileexplorerc1.png
+screenshot2=esfileexplorerc2.png
+screenshot3=esfileexplorerc3.png
 category=apps
-minandroid=2.3
+minandroid=4.1
 appversion=1.0
-package=
-description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
-verify=on
-type=recommended
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/esfileexplorer.apk
+description=Una app que te permite Gestionar tus archivos en tu dispositivo android.
+verify=off
+type=recommended 
 
 name=notPipe
 developer=AppData 174
@@ -36,65 +37,22 @@ description=
 verify=on
 type=recommended
 
-name=YouTube2
-developer=RDR
-starts=3.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2.png
-screenshot1=youtubec1.png
-screenshot2=youtubec2.png
-screenshot3=youtubec3.png
-category=apps
+#zaza-remote-3-7-0.apk
+name=zaza remote
+developer=zaza
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zazaremote.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
 minandroid=4.1
-appversion=1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2.apk
-description=Una app que te permite ver videos de YouTube sin anuncios para Android 4.1.
+appversion=3.7.0
+package=https://www.mediafire.com/file/viuu94116qrxool/zaza-remote-3-7-0.apk/file
+description=controla tu tele con tu dispositivo android
 verify=on
 type=recommended
 
-name=Discroto2
-developer=Sleap0x7b Edit by RDR
-starts=4.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/discroto2.png
-screenshot1=discrotoc1.png
-screenshot2=discrotoc2.png
-screenshot3=discrotoc3.png
-category=apps
-minandroid=2.3.0
-appversion=1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Discroto2.apk
-description=Discord en Android 2.3.0 Funciona perfectamente Envia mensajes y fotos desde tu smarphone Antiguo.
-verify=on
-type=recommended
-
-name=2ds Camera
-developer=RDR
-starts=3.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/2dscamera.png
-screenshot1=youtube2tvc1.png
-screenshot2=youtube2tvc2.png
-screenshot3=youtube2tvc3.png
-category=apps
-minandroid=4.1
-appversion=1.0
-package=https://www.mediafire.com/file/hd277u7trfabfh9/2dscamera2.apk/file
-description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
-verify=on
-type=recommended
-
-name=YouTube2tv
-developer=RDR
-starts=3.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/youtube2tv.png
-screenshot1=youtube2tvc1.png
-screenshot2=youtube2tvc2.png
-screenshot3=youtube2tvc3.png
-category=apps
-minandroid=4.1
-appversion=1.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/YouTube2TV.apk
-description=Una app que te permite ver videos de YouTube en tu televisor sin anuncios para Android 4.1.
-verify=on
-type=recommended
 
 # Apps Grandes con obb
 # Apps Grandes con obb
