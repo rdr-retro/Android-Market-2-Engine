@@ -3,6 +3,8 @@ package=market.apk
 market2.3version=3.5.0
 package=market2.3.apk
 
+games=Grand Theft Auto Vice City GTA-Drastic-Grand Theft Auto Chinatown Wars
+
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
 
@@ -37,7 +39,7 @@ description=
 verify=on
 type=recommended
 
-#googlemaps6.14.1
+#googlemaps6.14.4
 name=google maps
 developer=google
 starts=5.0
@@ -47,7 +49,7 @@ screenshot2=gmapsc2.png
 screenshot3=gmapsc3.png
 category=games
 minandroid=2.2
-appversion=6.14.1
+appversion=6.14.4
 package=https://github.com/rdr-retro/Android-Market-2-Engine/raw/refs/heads/main/googlemaps.apk
 description=Google maps for android 2.2 and never
 verify=on
