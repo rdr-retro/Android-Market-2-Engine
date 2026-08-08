@@ -49,7 +49,7 @@ category=games
 minandroid=2.2
 appversion=6.14.1
 package=https://github.com/rdr-retro/Android-Market-2-Engine/raw/refs/heads/main/googlemaps.apk
-description=controla tu tele con tu dispositivo android
+description=Google maps for android 2.2 and never
 verify=on
 type=recommended
 
