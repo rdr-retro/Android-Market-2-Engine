@@ -1,7 +1,5 @@
-marketversion=3.5.0
+marketversion=3.5.1
 package=market.apk
-market2.3version=3.5.0
-package=market2.3.apk
 
 games=Grand Theft Auto Vice City GTA-Drastic-Grand Theft Auto Chinatown Wars
 
