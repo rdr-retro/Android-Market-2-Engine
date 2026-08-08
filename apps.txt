@@ -37,18 +37,18 @@ description=
 verify=on
 type=recommended
 
-#zaza-remote-3-7-0.apk
-name=zaza remote
-developer=zaza
+#googlemaps6.14.1
+name=google maps
+developer=google
 starts=5.0
-iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zazaremote.png
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/googlemaps.png
 screenshot1=rubenportablethegamec1.png
 screenshot2=rubenportablethegamec2.png
 screenshot3=rubenportablethegamec3.png
 category=games
-minandroid=4.1
-appversion=3.7.0
-package=https://www.mediafire.com/file/viuu94116qrxool/zaza-remote-3-7-0.apk/file
+minandroid=2.2
+appversion=6.14.1
+package=https://github.com/rdr-retro/Android-Market-2-Engine/raw/refs/heads/main/googlemaps.apk
 description=controla tu tele con tu dispositivo android
 verify=on
 type=recommended
@@ -88,6 +88,22 @@ minandroid=2.3
 appversion=1.07
 package=https://www.mediafire.com/file/5oub8npj3h8txr3/GTA+Chinatown+wars.apk/file
 description= Juego de barrio chino
+type=recommended
+
+#zaza-remote-3-7-0.apk
+name=zaza remote
+developer=zaza
+starts=5.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/zazaremote.png
+screenshot1=rubenportablethegamec1.png
+screenshot2=rubenportablethegamec2.png
+screenshot3=rubenportablethegamec3.png
+category=games
+minandroid=4.1
+appversion=3.7.0
+package=https://www.mediafire.com/file/viuu94116qrxool/zaza-remote-3-7-0.apk/file
+description=controla tu tele con tu dispositivo android
+verify=on
 type=recommended
 
 #Grand-Theft-Auto-III-V1.07.apk
