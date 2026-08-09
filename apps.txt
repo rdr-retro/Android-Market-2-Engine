@@ -24,7 +24,7 @@ type=recommended
 
 name=notPipe
 developer=AppData 174
-starts=
+starts=5.0
 iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/io.github.gohoski.notpipe.png
 screenshot1=c1.png
 screenshot2=c2.png
