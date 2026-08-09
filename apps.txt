@@ -59,6 +59,22 @@ type=recommended
 # Apps Grandes con obb
 # Apps Grandes con obb
 
+#RetroGram 5.0.0 HTTP ONLY.apk
+name=Retrogram
+developer=Retrogram
+starts=3.0
+iconname=https://github.com/rdr-retro/Android-Market-2-Engine/blob/main/instagramold.png
+screenshot1=gtavcc1.png
+screenshot2=gtavcc2.png
+screenshot3=gtavcc3.png
+category=games
+minandroid=2.2
+appversion=5.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/RetroGram 5.0.0 HTTP ONLY.apk
+description=Recommended for older Android versions (2.2 - 6.0). Less secure
+verify=on
+type=recommended
+
 #Grand-Theft-Auto-Vice-City-V1.07.apk
 name=Grand Theft Auto Vice City GTA
 developer=Rockstar Games
