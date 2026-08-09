@@ -25594,6 +25594,98 @@ description=
 verify=on
 type=recommended
 
+name=CNN
+developer=Android
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cnn1.0.7 signed.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=2.1
+appversion=1.0.7
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/cnn1.0.7 signed.apk
+description=
+verify=on
+type=recommended
+
+name=Paper Toss
+developer=Unknown
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.bfs.papertoss_1.0.9-10_minAPI3(nodpi)_apkmirror.com.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.0.9
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.bfs.papertoss_1.0.9-10_minAPI3(nodpi)_apkmirror.com.apk
+description=
+verify=on
+type=recommended
+
+name=ES File Explorer
+developer=xiao
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.estrongs.android.pop_1.6.2.5-103_minAPI4(nodpi)_apkmirror.com.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.6
+appversion=1.6.2.5
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.estrongs.android.pop_1.6.2.5-103_minAPI4(nodpi)_apkmirror.com.apk
+description=
+verify=on
+type=recommended
+
+name=Angry Birds
+developer=Rovio Mobile Ltd
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.rovio.angrybirds_2.1.1-2110_minAPI4(armeabi,armeabi-v7a)(nodpi)_apkmirror.com.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.6
+appversion=2.1.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.rovio.angrybirds_2.1.1-2110_minAPI4(armeabi,armeabi-v7a)(nodpi)_apkmirror.com.apk
+description=
+verify=on
+type=recommended
+
+name=Shazam
+developer=Tony Miller
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.shazam.android_3.3.0-BB71229-71229_minAPI4(armeabi)(nodpi)_apkmirror.com.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.6
+appversion=3.3.0-BB71229
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.shazam.android_3.3.0-BB71229-71229_minAPI4(armeabi)(nodpi)_apkmirror.com.apk
+description=
+verify=on
+type=recommended
+
+name=wetter.com
+developer=wetter.com AG
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.wetter.androidclient_1.4.4-23_minAPI4(nodpi)_apkmirror.com.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.6
+appversion=1.4.4
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.wetter.androidclient_1.4.4-23_minAPI4(nodpi)_apkmirror.com.apk
+description=
+verify=on
+type=recommended
+
+
+
 
 
 
