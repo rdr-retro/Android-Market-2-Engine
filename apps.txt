@@ -1,7 +1,7 @@
 marketversion=3.5.1
 package=market.apk
 
-games=Alchemy Premium-Grand Theft Auto Vice City GTA-Drastic-Grand Theft Auto Chinatown Wars-Aliens vs. President-Grand Theft Auto III GTA III-Asphalt 5-Asphalt 6-Asphalt Nitro-Asphalt 7-Asphalt 8-Abduction! World Attack-Abduction! 2
+games=Alchemy Premium-Grand Theft Auto Vice City GTA-Drastic-Grand Theft Auto Chinatown Wars-Aliens vs. President-Grand Theft Auto III GTA III-Asphalt 5-Asphalt 6-Asphalt Nitro-Asphalt 7-Asphalt 8-Abduction! World Attack-Abduction! 2-3-Point Shootout-Angry Birds-Armored Defense-Armored Strike-Army Defense-Asphalt 3: Street Rules-Astraware Sudoku-AstroRaider-Atomic Bomber
 
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
