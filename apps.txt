@@ -26270,6 +26270,20 @@ description=
 verify=on
 type=recommended
 
+name=Robo Defense
+developer=Magic & Wachowski
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rdefense.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.0
+appversion=1.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rdefense.apk
+description=
+verify=on
+type=recommended
 
 
 
