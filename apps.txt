@@ -25694,7 +25694,7 @@ screenshot3=c3.png
 category=games
 minandroid=15
 appversion=1.2.11.4
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Minecraft 1.2.11 (android 14+).apk
+package=https://www.mediafire.com/file/rf2vsx1hfbze7ms/Minecraft_1.2.11_%2528android_14%252B%2529.apk/file
 description=
 verify=on
 type=recommended
@@ -25709,7 +25709,7 @@ screenshot3=c3.png
 category=games
 minandroid=4.2
 appversion=0.16.2.2
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Minecraft PE 0.16.2.2-armeabi-v7a.apk
+package=https://www.mediafire.com/file/ofp46qoaljl2p3y/Minecraft_PE_0.16.2.2-armeabi-v7a.apk/file
 description=
 verify=on
 type=recommended
@@ -25732,7 +25732,7 @@ type=recommended
 name=Sonic 2
 developer=Sega of America
 starts=
-iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Sonic 2 Remastered.png
+iconname=https://www.mediafire.com/file/xjxaqhdbjq7qk3v/Sonic_2_Remastered.apk/file
 screenshot1=c1.png
 screenshot2=c2.png
 screenshot3=c3.png
@@ -25754,25 +25754,12 @@ screenshot3=c3.png
 category=games
 minandroid=2.3
 appversion=2.1.1
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Sonic The hedgehog by luigi tutorial.apk
+package=https://www.mediafire.com/file/gpyxjdi4do7hysy/Sonic_The_hedgehog_by_luigi_tutorial.apk/file
 description=
 verify=on
 type=recommended
 
-name=Terraria
-developer=Vladimir Bondarev
-starts=
-iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/terraria_1.3.0.7.9_androidapksbox.png
-screenshot1=c1.png
-screenshot2=c2.png
-screenshot3=c3.png
-category=games
-minandroid=4.3
-appversion=1.3.0.7.9
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/terraria_1.3.0.7.9_androidapksbox.apk
-description=
-verify=on
-type=recommended
+
 
 
 
