@@ -25775,21 +25775,6 @@ description=
 verify=on
 type=recommended
 
-name=DroidAtomix
-developer=Android Debug
-starts=
-iconname=
-screenshot1=c1.png
-screenshot2=c2.png
-screenshot3=c3.png
-category=apps
-minandroid=None
-appversion=1.0.0
-package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Atomix_alpha1.apk
-description=
-verify=on
-type=recommended
-
 name=Bites
 developer=Ben Caldwell
 starts=
