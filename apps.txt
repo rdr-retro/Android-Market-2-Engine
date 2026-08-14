@@ -25760,6 +25760,557 @@ verify=on
 type=recommended
 
 
+name=Android Token
+developer=Mark McAvoy
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/AndroidToken.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.1
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/AndroidToken.apk
+description=
+verify=on
+type=recommended
+
+name=DroidAtomix
+developer=Android Debug
+starts=
+iconname=
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Atomix_alpha1.apk
+description=
+verify=on
+type=recommended
+
+name=Bites
+developer=Ben Caldwell
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Bites_1.0.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Bites_1.0.apk
+description=
+verify=on
+type=recommended
+
+name=Heat
+developer=Carl Minden
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Heat (1.0).png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Heat (1.0).apk
+description=
+verify=on
+type=recommended
+
+name=Just Sit
+developer=Brock Tice
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/JustSit-0.1.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=0.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/JustSit-0.1.apk
+description=
+verify=on
+type=recommended
+
+name=K9
+developer=Jesse Vincent
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/K9-r14.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=None
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/K9-r14.apk
+description=
+verify=on
+type=recommended
+
+name=Local HTTPD
+developer=OS
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Local HTTPD.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Local HTTPD.apk
+description=
+verify=on
+type=recommended
+
+name=NeHe Lessons
+developer=Cosmin Banu
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/NeHe.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=0.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/NeHe.apk
+description=
+verify=on
+type=recommended
+
+name=OpenGL Demos
+developer=Cosmin Banu
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/OpenGLdemos-0.1.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=0.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/OpenGLdemos-0.1.apk
+description=
+verify=on
+type=recommended
+
+name=OpenSudoku
+developer=Roman Masek
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/OpenSudoku-0.5.0.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.1
+appversion=0.5.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/OpenSudoku-0.5.0.apk
+description=
+verify=on
+type=recommended
+
+name=Pomodoro Tasks
+developer=Kavan Puranik
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/PomodoroTasks_1_5_RC1.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.5
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/PomodoroTasks_1_5_RC1.apk
+description=
+verify=on
+type=recommended
+
+name=Power Manager
+developer=Unknown
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Power Manager.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.4.2
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Power Manager.apk
+description=
+verify=on
+type=recommended
+
+name=RingTone
+developer=jie
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Ringtones_3.7.1.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=3.7.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Ringtones_3.7.1.apk
+description=
+verify=on
+type=recommended
+
+name=Skylight TDC
+developer=Android Debug
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Skylight TDC.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Skylight TDC.apk
+description=
+verify=on
+type=recommended
+
+name=SMS Backup
+developer=Christoph Studer
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/SmsBackup-1.0.0.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/SmsBackup-1.0.0.apk
+description=
+verify=on
+type=recommended
+
+name=Spider
+developer=Unknown
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Spider.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=2.2.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/Spider.apk
+description=
+verify=on
+type=recommended
+
+name=AK Notepad
+developer=Andrew Kurniadi
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/ak.notepad.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.4.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/ak.notepad.apk
+description=
+verify=on
+type=recommended
+
+name=chamskie.pl
+developer=Sebastian Haba
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/chamskie.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.6
+appversion=1.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/chamskie.apk
+description=
+verify=on
+type=recommended
+
+name=Radar
+developer=Mike Cleron
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.google.android.radar.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/com.google.android.radar.apk
+description=
+verify=on
+type=recommended
+
+name=ENUM
+developer=Ray Bellis
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/enumdroid-0.9.0.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=0.9.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/enumdroid-0.9.0.apk
+description=
+verify=on
+type=recommended
+
+name=Gmote
+developer=Gmote.org
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gmote.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=2.0.2
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gmote.apk
+description=
+verify=on
+type=recommended
+
+name=imeem
+developer=imeem signer
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gynoid.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/gynoid.apk
+description=
+verify=on
+type=recommended
+
+name=Kamery Drogowe
+developer=Android Debug
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kamerydrogowe.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kamerydrogowe.apk
+description=
+verify=on
+type=recommended
+
+name=Kontomierz - finanse osobiste
+developer=Leon
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kontomierz finanse osobiste.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.6
+appversion=1.1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/kontomierz finanse osobiste.apk
+description=
+verify=on
+type=recommended
+
+name=Location Log
+developer=Jason Michalski
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/location.plog.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.0
+appversion=1.0.2
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/location.plog.apk
+description=
+verify=on
+type=recommended
+
+name=Lotto
+developer=Robert Nasiadek
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/lotto.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=0.1beta3
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/lotto.apk
+description=
+verify=on
+type=recommended
+
+name=New Movie Releases & DVDs Pro
+developer=
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/new movie releases & dvd.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.2
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/new movie releases & dvd.apk
+description=
+verify=on
+type=recommended
+
+name=OV: Trein PRO
+developer=M.F.A. ten Veldhuis
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/ovtrein.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=0.5 PRO
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/ovtrein.apk
+description=
+verify=on
+type=recommended
+
+name=PayPal
+developer=Paypal
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/paypal.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.0
+appversion=1.1.3
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/paypal.apk
+description=
+verify=on
+type=recommended
+
+name=PicUP
+developer=Aqris Software
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/picup.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.0
+appversion=2.0.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/picup.apk
+description=
+verify=on
+type=recommended
+
+name=Pita Translate
+developer=Austin Bingham
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/pita.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=0.5
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/pita.apk
+description=
+verify=on
+type=recommended
+
+name=Rings Extended
+developer=Dianne Hackborn
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rings.extended.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=None
+appversion=1.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/rings.extended.apk
+description=
+verify=on
+type=recommended
+
+name=Seesmic
+developer=Seesmic Dev Team
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/seesmic_Ver1.0.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/seesmic_Ver1.0.apk
+description=
+verify=on
+type=recommended
+
+name=Sysinfo
+developer=Alan Goo
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/sysinfo.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.1
+appversion=0.4
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/sysinfo.apk
+description=
+verify=on
+type=recommended
+
+name=Talking RSS Reader
+developer=Stephane Doyon
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/talkingrss-v1_2_1.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.1
+appversion=1.2.1
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/talkingrss-v1_2_1.apk
+description=
+verify=on
+type=recommended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
