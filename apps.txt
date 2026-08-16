@@ -58,6 +58,21 @@ type=recommended
 # Apps Grandes con obb
 # Apps Grandes con obb
 
+name=Music 2
+developer=Android Debug
+starts=
+iconname=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/music2.png
+screenshot1=c1.png
+screenshot2=c2.png
+screenshot3=c3.png
+category=apps
+minandroid=1.5
+appversion=1.0
+package=https://raw.githubusercontent.com/rdr-retro/Android-Market-2-Engine/main/music2.apk
+description=
+verify=on
+type=recommended
+
 #RetroGram 5.0.0 HTTP ONLY.apk
 name=Retrogram
 developer=Retrogram
