@@ -1,7 +1,6 @@
 marketversion=3.6.0
 package=market.apk
 
-games=Grand Theft Auto Vice City GTA-Drastic-Grand Theft Auto Chinatown Wars
 
 # 4 aplicaciones recomendadas (boton 1..4)
 # Campos: name, developer, stars/starts, iconname, screenshot1, screenshot2, screenshot3, category, minandroid, package, description, type, verify
