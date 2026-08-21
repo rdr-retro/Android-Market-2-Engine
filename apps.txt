@@ -1,4 +1,4 @@
-marketversion=3.6.2
+marketversion=3.6.5
 package=market.apk
 
 
